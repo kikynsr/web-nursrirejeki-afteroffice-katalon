@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ExpandDesktop</name>
+   <tag></tag>
+   <elementGuidId>28df2000-cd9f-441e-aa67-5b89c41bb442</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Desktop']/ancestor::label/preceding-sibling::button[@title='Toggle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Desktop']/ancestor::label/preceding-sibling::button[@title='Toggle']</value>
+      <webElementGuid>c508796f-609a-4ac3-9f09-848b862e8509</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

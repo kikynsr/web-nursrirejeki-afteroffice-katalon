@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_Yes</name>
+   <tag></tag>
+   <elementGuidId>3891bb68-f447-46f4-9453-a156dbb8225a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[label[@for='yesRadio']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[label[@for='yesRadio']]</value>
+      <webElementGuid>a6bb1a1e-ffe6-45bc-a87b-a5cec3c503c7</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

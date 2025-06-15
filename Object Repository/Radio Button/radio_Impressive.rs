@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_Impressive</name>
+   <tag></tag>
+   <elementGuidId>f4c67a05-e50d-4bbb-9c5f-131533e2eb40</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[label[@for='impressiveRadio']]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[label[@for='impressiveRadio']]</value>
+      <webElementGuid>2c78facb-bc85-4522-9e55-b55f5186dd14</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

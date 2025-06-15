@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ExpandHome</name>
+   <tag></tag>
+   <elementGuidId>5db6aa5b-e217-45b8-9926-3ceb7bf9c3be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Home']/ancestor::li//button[@title='Toggle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Home']/ancestor::li//button[@title='Toggle']</value>
+      <webElementGuid>14674821-a01b-475e-82c5-7e4223daaa95</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

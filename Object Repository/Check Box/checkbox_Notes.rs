@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_Notes</name>
+   <tag></tag>
+   <elementGuidId>c757e81e-cec4-427e-be68-76a78bfe6ed9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Notes']/preceding-sibling::span[@class='rct-checkbox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Notes']/preceding-sibling::span[@class='rct-checkbox']</value>
+      <webElementGuid>1e4c9958-aec5-4377-b5ce-1d83e1e01f62</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
