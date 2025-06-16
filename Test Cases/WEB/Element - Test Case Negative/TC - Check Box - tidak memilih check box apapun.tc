@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Check Box - tidak memilih check box apapun</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>55bcc2bf-57bc-43e4-abbc-86890f6263e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC - Text Box - tidak input email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cef8ddab-8076-451b-b7f1-5c478bc48fde</testCaseGuid>
+</TestCaseEntity>

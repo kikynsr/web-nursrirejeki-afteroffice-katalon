@@ -39,4 +39,11 @@
       <testCaseId>Test Cases/WEB/Element - Test Case Positive/TC - Buttons</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
+   <testCaseLink>
+      <guid>79682204-b582-4ca2-b32a-32a751d8bfe5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/WEB/Element - Test Case Positive/TC - Upload and Download</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
 </TestSuiteEntity>
